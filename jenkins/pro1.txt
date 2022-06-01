@@ -1,0 +1,4 @@
+jenkins project
+
+declarative pipeline
+
